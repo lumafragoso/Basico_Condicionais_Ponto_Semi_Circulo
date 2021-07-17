@@ -23,7 +23,7 @@ Algumas dicas para o desenho:
 2. Use a função write(texto, font=('Arial', 8, 'normal')). Mudando o tamanho da fonte para um tamanho que fique legível na figura. Lembre de mover a turtle para a posição desejada antes de desenhar.
 3. Use a função turtle.dot(size=2) para desenhar um ponto na posição em que a turtle estiver.
 
-1. Exemple / Exemplo
+1. Example / Exemplo
 ```py
 
 x:  1
